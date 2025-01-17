@@ -1,0 +1,16 @@
+~~~~~~~******* Total for Order #1 *******~~~~~~~
+No Sandwich Selected    $0.00
+No Side Selected        $0.00
+Lemonaide Small         $1.50
+-----------------------------------
+Subtotal:               $1.50
+Tax:                    $0.12
+Total:                  $1.62
+~~~~~~~******* Total for Order #2 *******~~~~~~~
+Chicken Sandwich        $2.50
+No Side Selected        $0.00
+Water Cup               $0.00
+-----------------------------------
+Subtotal:               $2.50
+Tax:                    $0.20
+Total:                  $2.70
